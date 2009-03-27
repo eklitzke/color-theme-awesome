@@ -31,7 +31,7 @@
      (font-lock-type-face ((t (:foreground "PaleGreen" :bold t))))
      ;(font-lock-variable-name-face ((t (:foreground "#fce94f"))))
      (font-lock-variable-name-face ((t (:foreground "#eeeeec"))))
-     (font-lock-warning-face ((t (:bold t :foreground "#cc0000"))))
+     (font-lock-warning-face ((t (:bold t :foreground "#ff2b2b"))))
 )))
 
 (provide 'color-theme-awesome)
